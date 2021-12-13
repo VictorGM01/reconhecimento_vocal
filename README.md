@@ -1,2 +1,4 @@
 # Reconhecimento Vocal com Python
-Código em Python voltado ao reconhecimento vocal (localmente)
+
+### Descrição do Projeto
+Código em Python voltado ao reconhecimento vocal, de maneira simples e intuitiva.
