@@ -58,5 +58,17 @@ texto_para_fala('Insira o texto de sua preferência')
 
 # Para rodar a aplicação 'texto_para_fala', no Pycharm:
 # modifique o argumento texto da função e aperte 'shift' + f10
+```
 
-````
+### Tecnologias - Ferramentas e/ou Libs 👨🏻‍💻
+
+Para a construção deste projeto foram utilizadas as seguintes ferramentas e bibliotecas:
+
+- [Python](https://www.python.org/downloads/release/python-390/)
+- [Git](https://git-scm.com/)
+- [pip](https://pypi.org/project/pip/)
+- [pipwin](https://pypi.org/project/pipwin/)
+- [gTTS](https://pypi.org/project/gTTS/)
+- [Pyaudio](https://pypi.org/project/PyAudio/)
+- [Playsound](https://pypi.org/project/playsound/)
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
