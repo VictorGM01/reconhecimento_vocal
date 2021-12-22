@@ -42,4 +42,21 @@ pipwin install pyaudio
 pip install playsound
 pip install gTTS
 
+# Para executar o programa 'fala_para_texto', execute (no terminal):
+python fala_para_texto.py
+
+# Para executar o programa 'texto_para_fala', execute (no terminal):
+# Abra o console do Python
+python
+# Importe a função
+from texto_para_fala import texto_para_fala
+# Chame a função passando o argumento necessário
+texto_para_fala('Insira o texto de sua preferência')
+
+# Para rodar a aplicação 'fala_para_texto', no Pycharm:
+# aperte 'shift' + f10
+
+# Para rodar a aplicação 'texto_para_fala', no Pycharm:
+# modifique o argumento texto da função e aperte 'shift' + f10
+
 ````
