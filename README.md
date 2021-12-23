@@ -72,3 +72,7 @@ Para a construção deste projeto foram utilizadas as seguintes ferramentas e bi
 - [Pyaudio](https://pypi.org/project/PyAudio/)
 - [Playsound](https://pypi.org/project/playsound/)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+
+### Desenvolvedor
+
+[<img src="https://avatars.githubusercontent.com/u/86068797?s=400&u=043c0b1479770ac997f0cf5a31c986a2815ce810&v=4" width=115 > <br> <sub> By Victor G. Marques </sub>](https://www.linkedin.com/in/victor-gabriel-marques-4a327a208/) 
