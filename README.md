@@ -1,5 +1,14 @@
 # Reconhecimento Vocal com Python
 
+### Tabela de Conteúdos 📖
+* [Descrição](#descrição-do-projeto)
+* [Funcionalidades](#funcionalidades-)
+* [Pré Requisitos](#pré-requisitos-pencil2)
+* [Status](#status-chart_with_upwards_trend)
+* [Como Rodar a Aplicação](#como-rodar-a-aplicação-)
+* [Tecnologias](#tecnologias---ferramentas-eou-libs-)
+* [Desenvolvedor](#desenvolvedor-)
+
 ### Descrição do Projeto
 Código em Python voltado ao reconhecimento vocal, de maneira simples e intuitiva.
 
@@ -9,7 +18,7 @@ Código em Python voltado ao reconhecimento vocal, de maneira simples e intuitiv
     <img src="https://img.shields.io/static/v1?label=pip&message=21.2.4&color=purple&style=for-the-badge"/>
 </h1>
 
-### Funcionalidades 🏁:
+### Funcionalidades 🏁
 - [x] Reconhecer áudio e convertê-lo para texto.
 - [x] Interpretar texto e convertê-lo para áudio.
 
@@ -60,7 +69,7 @@ texto_para_fala('Insira o texto de sua preferência')
 # modifique o argumento texto da função e aperte 'shift' + f10
 ```
 
-### Tecnologias - Ferramentas e/ou Libs 👨🏻‍💻
+### Tecnologias - Ferramentas e/ou Libs 🛠
 
 Para a construção deste projeto foram utilizadas as seguintes ferramentas e bibliotecas:
 
@@ -73,6 +82,6 @@ Para a construção deste projeto foram utilizadas as seguintes ferramentas e bi
 - [Playsound](https://pypi.org/project/playsound/)
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 
-### Desenvolvedor
+### Desenvolvedor 👨🏻‍💻
 
 [<img src="https://avatars.githubusercontent.com/u/86068797?s=400&u=043c0b1479770ac997f0cf5a31c986a2815ce810&v=4" width=115 > <br> <sub> By Victor G. Marques </sub>](https://www.linkedin.com/in/victor-gabriel-marques-4a327a208/) 
